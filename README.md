@@ -1,4 +1,4 @@
-MSc Artificial Intelligence student at the **University of Surrey** and Computer Engineering graduate from **Istanbul Technical University**. I build backend systems and applied AI tools, with a focus on reliable software, data quality and reproducible evaluation.
+MSc Artificial Intelligence student at the **University of Surrey** and Computer Engineering graduate from **Istanbul Technical University**. I build backend systems and applied AI tools.
 
 ## Research & Engineering Interests
 
