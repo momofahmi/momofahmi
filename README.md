@@ -5,9 +5,8 @@ MSc Artificial Intelligence student at the **University of Surrey** and Computer
 - LLM agents and hybrid statistical-AI systems
 - Data quality, distribution shift and reliable model evaluation
 - Backend engineering, REST APIs and AI system integration
-- Applied NLP, parameter-efficient fine-tuning and cross-variety evaluation
 
-## Selected Work
+## Projects I’m Proud Of
 
 **[CleanData with LLM](https://github.com/momofahmi/CleanData-with-LLM)** - Repairing distribution-level errors in tabular ML data with a hybrid statistical-LLM agent. Benchmarked statistical, LLM-only and hybrid modes across **72 runs and four datasets** using a leakage-aware 60/20/20 evaluation protocol.
 
@@ -21,10 +20,6 @@ MSc Artificial Intelligence student at the **University of Surrey** and Computer
 **Backend:** Python, FastAPI, Node.js, Express, REST APIs  
 **Data:** SQL, MongoDB, SQL Server, NumPy  
 **Engineering:** Git/GitHub, Docker, Pytest, OpenAPI/Swagger, debugging and technical documentation
-
-## Background
-
-**MSc Artificial Intelligence (University of Surrey, expected 2027) | BSc Computer Engineering (Istanbul Technical University, 2025) | Backend & Applied AI Developer**
 
 ## Contact
 
